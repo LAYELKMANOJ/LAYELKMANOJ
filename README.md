@@ -56,7 +56,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/layelkmanoj) [![Instagram](https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/layel_k_manoj)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/layelkmanoj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/layel_k_manoj)  
 
 </div>
 
