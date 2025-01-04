@@ -30,7 +30,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LAYELKMANOJ&show_icons=true&theme=merko)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
