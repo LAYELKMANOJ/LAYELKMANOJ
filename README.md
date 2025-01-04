@@ -1,6 +1,6 @@
 # Dive into My Coding Universe 🚀
 
-Hi there! I'm Layel K Manoj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I'm first-year Computer Science student at **Amal Jyothi College of Engineering**. I am passionate about exploring the world of **Cybersecurity** and developing creative solutions through **Python**, my favorite programming language. Recently, I've also started coding in **Java** and **C++**, and I enjoy working on game development projects! Additionally, I have studied **UI/UX Design**, enhancing my ability to create user-centered, visually appealing applications.
+Hi there! I'm Layel K Manoj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I'm first-year Computer Science student at <STRONG>Amal Jyothi College of Engineering</strong>. I am passionate about exploring the world of **Cybersecurity** and developing creative solutions through **Python**, my favorite programming language. Recently, I've also started coding in **Java** and **C++**, and I enjoy working on game development projects! Additionally, I have studied **UI/UX Design**, enhancing my ability to create user-centered, visually appealing applications.
 
 ---
 
@@ -13,20 +13,17 @@ Hi there! I'm Layel K Manoj <img src="https://media.giphy.com/media/hvRJCLFzcasr
 </div>
 
 
-
-
-
 ---
 
 ## 🎨 Featured Projects
 
-### 🎮 [Game Development Project](https://github.com/yourproject)
+### 🎮 [Game Development Project](https://github.com/LAYELKMANOJ)
 A fun and engaging game built using **Python** and **Pygame**, showcasing my love for creating interactive experiences. 
 
-### 🔒 [Cybersecurity Toolkit](https://github.com/yourproject)
+### 🔒 [Cybersecurity Toolkit](https://github.com/LAYELKMANOJ)
 A comprehensive collection of tools and scripts aimed at enhancing cybersecurity practices and learning.
 
-### 🎨 [UI/UX Portfolio](https://github.com/yourproject)
+### 🎨 [UI/UX Portfolio](https://github.com/LAYELKMANOJ)
 A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.
 
 ---
