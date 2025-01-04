@@ -37,7 +37,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ## 🌏 Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAYELKMANOJ&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAYELKMANOJ&layout=compact&theme=synthwave)
 
 
 ---
