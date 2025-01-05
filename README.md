@@ -25,7 +25,7 @@ A fun and engaging game built using **Python** and **Pygame**, showcasing my lov
 A comprehensive collection of tools and scripts aimed at enhancing cybersecurity practices and learning.
 
 ### 🎨 [UI/UX Portfolio](https://github.com/LAYELKMANOJ)
-A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs
+A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs is also my cup of coffee.
 
 ---
 
