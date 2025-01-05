@@ -4,7 +4,7 @@ Hi there! I'm Layel K Manoj <img src="https://media.giphy.com/media/hvRJCLFzcasr
 
 ---
 ## 📊 My Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LAYELKMANOJ&theme=tokyo-night)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LAYELKMANOJ&theme=merco)]
 ## 💻 Tech Stack & Tools
 <div align="center">
   
