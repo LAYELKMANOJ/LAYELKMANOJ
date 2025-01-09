@@ -27,6 +27,8 @@ A comprehensive collection of tools and scripts aimed at enhancing cybersecurity
 ### 🎨 [UI/UX Portfolio](https://github.com/LAYELKMANOJ)
 A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs is also my cup of coffee.
 
+### 📁 DATA SCIENCE
+
 ---
 
 ## 📊 GitHub Stats
