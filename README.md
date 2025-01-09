@@ -48,7 +48,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 - 🔒 Cybersecurity enthusiast who loves problem-solving and exploring vulnerabilities.  
 - 🎮 Game developer bringing ideas to life through interactive code.  
 - 🎨 Passionate about crafting visually appealing UI/UX designs.  
-- ☕ What about.  
+- ☕ What about a.  
 - 🚀 Continuously expanding my skillset by learning new programming languages and frameworks.
 
 ---
