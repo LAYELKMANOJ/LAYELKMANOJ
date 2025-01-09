@@ -28,7 +28,7 @@ A comprehensive collection of tools and scripts aimed at enhancing cybersecurity
 A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs is also my cup of coffee.
 
 ### 📁 DATA SCIENCE
- shocasing the intreset in data analysics and data science
+ Showcaseing the intreset in data analysics and data science
 ---
 
 ## 📊 GitHub Stats
