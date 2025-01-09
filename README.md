@@ -29,7 +29,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ### 📁 [Data Science](https://github.com/LAYELKMANOJ/Data-Science)
  Showcaseing the intreset in DATA  ANALYSICS and DATA SCIENCE
----
+
 
 ## 📊 GitHub Stats
 
