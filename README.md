@@ -28,7 +28,7 @@ A comprehensive collection of tools and scripts aimed at enhancing cybersecurity
 A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs is also my cup of coffee.
 
 ### 📁 [Data Science](https://github.com/LAYELKMANOJ/Data-Science)
- Showcaseing the intreset in DATA ANALYSICS and DATA SCIENCE
+ Showcaseing the intreset in Data Analytics and Data science
 
 
 ## 📊 GitHub Stats
