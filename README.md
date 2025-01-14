@@ -60,9 +60,9 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ---
 
-<div align="center">
+<div align="left">
  
- ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=LAYELKMANOJ&theme=merko)
  
 </div>
 
