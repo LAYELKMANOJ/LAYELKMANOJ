@@ -56,7 +56,16 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 ---
 
 ## 🎯 My Coding Streak
+
+
 ---
+
+<div align="center">
+ 
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=edwingeorgeshaji&theme=tokyonight)
+ 
+</div>
+
 
 ## 🌐 Connect with Me
 
