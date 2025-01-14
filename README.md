@@ -55,7 +55,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ---
 
-##  My Coding Streak
+## 🎯 My Coding Streak
 
 ## 🌐 Connect with Me
 
