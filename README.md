@@ -36,15 +36,6 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LAYELKMANOJ&show_icons=true&theme=merko)
 
 
----
-## 🎯 My Coding Streak
-
-
-<div align="left">
- 
- ![GitHub Streak](https://streak-stats.demolab.com/?user=LAYELKMANOJ&theme=merko)
- 
-</div>
 
 
 ---
@@ -55,6 +46,16 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 
 ---
+---
+## 🎯 My Coding Streak
+
+
+<div align="left">
+ 
+ ![GitHub Streak](https://streak-stats.demolab.com/?user=LAYELKMANOJ&theme=merko)
+ 
+</div>
+
 
 ## 🌟 Fun Facts About Me
 
