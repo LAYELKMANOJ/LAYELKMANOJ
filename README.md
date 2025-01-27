@@ -86,7 +86,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 <div align='center'>
   
-  <em>"The best way to predict the future is to invent it." – Alan Kay</em>
+  <em>"The best way to predict the future is to invent it ." – Alan Kay</em>
 
 </div>
 
