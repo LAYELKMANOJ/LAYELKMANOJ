@@ -84,7 +84,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 <div align='center'>
   
-  <em>"Programming is the art of telling another human being what one wants the computer to do." — Donald Knuth</em>
+  <strong><em>"Programming is the art of telling another human being what one wants the computer to do." — Donald Knuth</em></strong>
 
 </div>
 
