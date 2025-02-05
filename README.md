@@ -26,9 +26,9 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 **Technologies & Tools:**
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="50" height="50">
-  <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Design" width="50" height="50">  
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40">
+  <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Design" width="40" height="40">  
 </p>
 </div>
 
