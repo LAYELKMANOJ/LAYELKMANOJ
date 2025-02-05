@@ -74,7 +74,6 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
  
 </div>
 
-
 ## 🌟 Fun Facts About Me
 
 - 🔒 Cybersecurity enthusiast who loves problem-solving and exploring vulnerabilities.  
