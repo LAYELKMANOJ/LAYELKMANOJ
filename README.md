@@ -9,9 +9,24 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 ![Layel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LAYELKMANOJ&theme=merko&height=300)
 
   
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+---
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50" height="50">
+</p>
 
+**Technologies & Tools:**
 
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="50" height="50">
+  <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Design" width="50" height="50">  
+</p>
 </div>
 
 ---
