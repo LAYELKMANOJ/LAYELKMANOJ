@@ -10,6 +10,8 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 
   
 ---
+**Programming Languages:**
+
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="50" height="50">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="50" height="50">
