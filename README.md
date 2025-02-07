@@ -14,7 +14,7 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 **Programming Languages:**
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"(https://www.geeksforgeeks.org/c-plus-plus/)>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
