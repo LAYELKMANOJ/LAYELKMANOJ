@@ -11,7 +11,7 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 
   
 ---
-**Programming Languages:**
+ ## **Programming Languages:**
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40">
@@ -25,7 +25,7 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 </p>
 
 
-**Technologies & Tools:**
+## **Technologies & Tools:**
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40">
