@@ -109,5 +109,6 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 </div>
 
 
+
 <i>"Write code that is easy to understand and maintain. Simple, clean, and well-documented code is more valuable than complex, clever code that only you can decipher. Think about the future developers (including your future self)</i><b> who will read your code.</b>"
 
