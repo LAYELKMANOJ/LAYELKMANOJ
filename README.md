@@ -109,6 +109,10 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 
 <i>"Write code that is easy to understand and maintain. Simple, clean, and well-documented code is more valuable than complex, clever code that only you can decipher. Think about the future developers (including your future self)</i><b> who will read your code.</b>"
-
+</P>
+</P>
+</P>
+</P>
+</P>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LAYELKMANOJ&label=Profile%20views&color=ff1919&style=flat" alt="LAYEL K MANOJ" /> </p>
 
