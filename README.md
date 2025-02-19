@@ -30,7 +30,7 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="40" height="40">
   <align="left">
   <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" width="40" height="40">
-    < align="right">
+    <align="right">
   <img src="https://img.icons8.com/color/48/000000/web-design.png" alt="Web Design" width="40" height="40">  
 </p>
 </div>
