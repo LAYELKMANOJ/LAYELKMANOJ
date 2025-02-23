@@ -104,6 +104,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/47049dc4-a1e7-4da7-84ac-24cb03e0df7d)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
 </div>
 
@@ -115,6 +116,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
   <strong><em>"Programming is the art of telling another human being what one wants the computer to do." — Donald Knuth</em></strong>
 
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
 
 
