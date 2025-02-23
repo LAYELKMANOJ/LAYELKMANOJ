@@ -1,6 +1,6 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
   
-  <DIV ALIGN='CENTER'># Dive into My Coding Universe.....🚀 
+  # Dive into My Coding Universe.....🚀 
  
 Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I'm first-year Computer Science student at <STRONG>Amal Jyothi College of Engineering</strong>. I am passionate about exploring the world of **Cybersecurity** and developing creative solutions through **Python**, my favorite programming language. Recently, I've also started coding in <strong>**Java** ,**C** and **C++**</strong> .I enjoy working on game development projects! Additionally, I have studied **UI/UX Design**, enhancing my ability to create user-centered, visually appealing applications.
 
