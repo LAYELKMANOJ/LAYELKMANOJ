@@ -123,8 +123,9 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 ---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=LAYELKMANOJ&label=Profile%20views&color=ff1919&style=flat" alt="LAYEL K MANOJ" /> </p>
-![GIF Description](https://raw.githubusercontent.com/LAYELKMANOJ/LAYELKMANOJ/main/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
+
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/47049dc4-a1e7-4da7-84ac-24cb03e0df7d)
 
 
 
