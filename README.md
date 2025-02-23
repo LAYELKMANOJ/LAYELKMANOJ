@@ -98,7 +98,9 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/layelkmanoj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/layel_k_manoj) [![Linktree](https://img.shields.io/badge/Linktree-%2300FF00?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/layelkmanoj)
-  
+
+
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=LAYELKMANOJ&label=Profile%20views&color=ff1919&style=flat" alt="LAYEL K MANOJ" /> </p>
 
 </div>
 
@@ -121,8 +123,6 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 </P>
 
 ---
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=LAYELKMANOJ&label=Profile%20views&color=ff1919&style=flat" alt="LAYEL K MANOJ" /> </p>
 
 
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/user-attachments/assets/47049dc4-a1e7-4da7-84ac-24cb03e0df7d)
