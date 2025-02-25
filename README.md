@@ -118,7 +118,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
 
-
+ 
 <i>"Write code that is easy to understand and maintain. Simple, clean, and well-documented code is more valuable than complex, clever code that only you can decipher. Think about the future developers (including your future self)</i><b> who will read your code.</b>"
 </P>
 </P>
