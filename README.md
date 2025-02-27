@@ -73,7 +73,7 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 ---
 ## 🎯 My Coding Streak
 
-<div align="CENTER">
+<div align="left">
  
  ![GitHub Streak](https://streak-stats.demolab.com/?user=LAYELKMANOJ&theme=merko)
  
