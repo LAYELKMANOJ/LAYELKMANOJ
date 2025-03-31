@@ -12,7 +12,8 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 
 ![Layel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LAYELKMANOJ&theme=merko&height=300)
 
-   
+
+      
 ---
  ## **Programming Languages:**
 
