@@ -16,15 +16,22 @@ Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj<
 ---  
  ## **Programming Languages:**
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40">
-  
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:nowrap;">
+
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" width="50" height="50">
+
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" width="50" height="50">
+
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" width="50" height="50">
+
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" width="50" height="50">
+
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="50" height="50">
+
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML" width="50" height="50">
+
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" width="50" height="50">
+
 </p>
 
 
