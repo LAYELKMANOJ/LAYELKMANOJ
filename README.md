@@ -52,17 +52,12 @@ A showcase of **UI/UX Design** projects, demonstrating my ability to design intu
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LAYELKMANOJ&show_icons=true&theme=merko)
 
-
-
-
 ---
 
 ## 🌏 Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAYELKMANOJ&layout=compact&theme=merko)
 
-
----
 ---
 ## 🎯 My Coding Streak
 
