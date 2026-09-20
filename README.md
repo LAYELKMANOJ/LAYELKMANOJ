@@ -1,5 +1,5 @@
-<img width="480" height="300" alt="wiki hacking GIF" src="https://github.com/user-attachments/assets/16c8ebe0-39ff-4e93-9189-897fd0d494f5" />
-<img width="480" height="300" alt="wiki hacking GIF" src="https://github.com/user-attachments/assets/d5c790f5-dc59-44a6-a9f8-edcccafc6cf6" />
+
+
 # ⚡ Hey, I'm **Layel K Manoj**
 
 <p align="center">
@@ -198,4 +198,7 @@ Whether it's organizing a technical event, designing an interface, developing a 
 ## 🤝 Let's Build Something!
 
 <p align="center">
-  <i>Have an idea? Let's turn it into something real.</i
+  <i>Have an idea? Let's turn it into something real.</i>
+  <p align="center">
+  <img width="580" height="300" alt="wiki hacking GIF" src="https://github.com/user-attachments/assets/d5c790f5-dc59-44a6-a9f8-edcccafc6cf6" />
+  </p>
